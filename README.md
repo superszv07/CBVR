@@ -42,13 +42,14 @@ Precision and Recall Calculation:
 
 Evaluate the retrieval system's performance using precision and recall metrics.
 Precision measures the proportion of retrieved videos that are relevant.
-Recall measures the proportion of relevant videos that are retrieved.
-Future Work
+Recall measures the proportion of relevant videos that are retrieved
 
-Fine-tuning ResNet-50: Experiment with fine-tuning the ResNet-50 model on the UCF101 dataset to improve feature extraction.
-Hybrid Retrieval: Combine content-based retrieval with text-based retrieval for more comprehensive search.
-Real-time Retrieval: Optimize the system for real-time video retrieval applications.
-User Feedback Integration: Incorporate user feedback to refine the retrieval system's recommendations.
+# Future Work
+
+ Fine-tuning ResNet-50: Experiment with fine-tuning the ResNet-50 model on the UCF101 dataset to improve feature extraction.
+ Hybrid Retrieval: Combine content-based retrieval with text-based retrieval for more comprehensive search.
+ time Retrieval: Optimize the system for real-time video retrieval applications.
+ User Feedback Integration: Incorporate user feedback to refine the retrieval system's recommendations.
 
 
 
